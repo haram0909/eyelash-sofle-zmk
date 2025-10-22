@@ -64,7 +64,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - layer2
   - $$mdi:apple-keyboard-option$$
-  - '&lt 3'
+  - {t: gaming, h: toggle}
   layer1:
   - $$mdi:keyboard-esc$$
   - F1
@@ -259,7 +259,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - layer2
   - $$mdi:apple-keyboard-option$$
-  - '&lt'
+  - {t: LAYER0, h: toggle}
   layer4:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
