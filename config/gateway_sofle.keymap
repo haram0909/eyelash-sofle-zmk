@@ -50,8 +50,8 @@
 
         toggle_capslock {
           bindings = <&kp CAPS>;
-          key-positions = <30 34>; 
-          hold-time-ms = <40>; 
+          key-positions = <30 34>; // press "f" and "k" together
+          timeout-ms = <40> // needs to be pressed within 40ms; 
         };        
     };
 
