@@ -49,10 +49,9 @@
         };
 
         toggle_capslock {
-          bindings = <&kp F>, <&kp J>;
-          key-positions = <12 28>; // Key positions for F and J keys
+          bindings = <&kp CAPS>;
+          key-positions = <30 33>; // Key positions for F and J keys
           hold-time-ms = <200>; // 200ms timeout
-          action = "toggle_capslock"; // Action to perform when the combo is triggered
         };        
     };
 
