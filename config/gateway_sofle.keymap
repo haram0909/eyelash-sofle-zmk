@@ -50,8 +50,8 @@
 
         toggle_capslock {
           bindings = <&kp CAPS>;
-          key-positions = <30 33>; // Key positions for F and J keys
-          hold-time-ms = <200>; // 200ms timeout
+          key-positions = <30 34>; 
+          hold-time-ms = <40>; 
         };        
     };
 
