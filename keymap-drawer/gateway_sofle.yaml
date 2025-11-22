@@ -328,5 +328,5 @@ layers:
 combos:
 - p: [14, 28, 40]
   k: '&soft_off'
-- p: [12, 28]
-  k: F
+- p: [30, 33]
+  k: $$mdi:apple-keyboard-caps$$
